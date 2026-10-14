@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|d:\\tt1d23\\bai tap\\phattrienungdungtrennenweb\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|solutionrelative:qu\u1EA3n l\u00FD sinh vi\u00EAn\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|d:\\tt1d23\\bai tap\\phattrienungdungtrennenweb\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|solutionrelative:qu\u1EA3n l\u00FD sinh vi\u00EAn\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|d:\\tt1d23\\bai tap\\phattrienungdungtrennenweb\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|solutionrelative:qu\u1EA3n l\u00FD sinh vi\u00EAn\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|d:\\tt1d23\\bai tap\\phattrienungdungtrennenweb\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|solutionrelative:qu\u1EA3n l\u00FD sinh vi\u00EAn\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|d:\\tt1d23\\bai tap\\phattrienungdungtrennenweb\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|solutionrelative:qu\u1EA3n l\u00FD sinh vi\u00EAn\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|d:\\tt1d23\\bai tap\\phattrienungdungtrennenweb\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\qu\u1EA3n l\u00FD sinh vi\u00EAn\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F888F7-845F-4623-A785-9477BEB54CA3}|Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn.csproj|solutionrelative:qu\u1EA3n l\u00FD sinh vi\u00EAn\\ketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Site1.Master",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Site1.Master",
+              "ToolTip": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Site1.Master",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-14T06:06:52.151Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangChu.aspx.cs",
+              "DocumentMoniker": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx.cs",
+              "ToolTip": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx.cs*",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T07:20:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChu.aspx",
+              "DocumentMoniker": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx",
+              "ToolTip": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx*",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\TrangChu.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-14T07:19:46.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ketnoi.cs",
+              "DocumentMoniker": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\ketnoi.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\ketnoi.cs",
+              "ToolTip": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\ketnoi.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\ketnoi.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:22:32.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAmwKQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T06:18:17.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx",
+              "ToolTip": "D:\\TT1D23\\bai tap\\phattrienungdungtrennenweb\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD sinh vi\u00EAn\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-14T06:07:12.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
